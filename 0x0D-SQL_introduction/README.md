@@ -1,0 +1,1 @@
+Basic introduction to DBMS and SQL
