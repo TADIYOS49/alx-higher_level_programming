@@ -1,0 +1,1 @@
+More on database that includes permission grants join functions and more.
